@@ -8,12 +8,20 @@ We automated the data collection process from the Flipkart website using Seleniu
 
 ## Dataset Features
 **Model Name**: Name of the mobile phone model.
+
 **RAM**: Random Access Memory specifications.
+
 **Storage**: Storage capacity.
+
 **Camera Specifications**: Details about the camera.
+
 **Color**: Color options available.
+
 **Battery Capacity**: Mobile phone battery capacity.
+
 **Price**: Mobile phone price.
+
 **Resolution**: Display resolution specifications.
+
 **Number of Ratings**: Count of user ratings.
 **No of Reviews**:Count of User reviews.
