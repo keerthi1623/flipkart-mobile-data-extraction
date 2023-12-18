@@ -1,4 +1,4 @@
-### Flipkart Mobile Data Extraction Using automation tool - Selenium
+# Flipkart Mobile Data Extraction Using automation tool - Selenium
 
 ## Overview
 This repository documents a case study where we collected data from Flipkart mobile phones using Selenium. The dataset includes key features such as model name, RAM, storage, camera specifications, color, battery capacity, price, resolution, number of ratings, and reviews.
